@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Disallow: /wp-admin/
+Disallow: /search/
+Disallow: /?s
+Disallow: /%E
+Disallow: /openinappbtn/*
+Disallow: 1503113/*
+Disallow: %2F1503113/*
+Disallow: 252F1503113/*
